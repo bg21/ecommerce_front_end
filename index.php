@@ -31,13 +31,10 @@
                     <div class="right">
                         <div class="conta">
                             <a href=""><i class="fas fa-user"></i> Conta</a>
-                            <div>
-                                <a href="">Registrar</a>
-                            </div>
                         </div>
+
                         <div class="carrinho">
-                            <a href=""><i class="fas fa-shopping-cart"></i> Carrinho</a>
-                            <div>Itens ()</div>
+                            <a href=""><i class="fas fa-shopping-cart"></i> Carrinho (4)</a>
                         </div>
                     </div>
                 </div>
@@ -46,10 +43,35 @@
             <nav>
                 <div class="container">
                     <ul>
-                        <li><a href="">home</a></li>
+                        <li><a href="">Todas as Categorias</a></li>
+                        <li><a href="">Specials</a></li>
+                        <li><a href="">Lorem</a></li>
+                        <li><a href="">Ipsum</a></li>
+                        <li><a href="">Specials</a></li>
                     </ul>
                 </div>
             </nav>
     </header>
+
+    <section class="body">
+        <div class="container">
+            <aside>
+                <nav>
+                    <ul>
+                        <li><a href="">Desktops</a></li>
+                        <li><a href="">Desktop asdasds</a></li>
+                        <li><a href="">Desktops</a></li>
+                        <li><a href="">Desktops</a></li>
+                        <li><a href="">Desktops</a></li>
+                    </ul>
+                </nav>
+            </aside>
+            <main>
+                <h1>Produtos Populares</h1>
+            </main>
+        </div>
+    </section>
+    
+    
 </body>
 </html>

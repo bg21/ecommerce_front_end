@@ -23,7 +23,7 @@ body {
 .search, .conta {
   padding: 0 20px; }
 
-section.alert, section.topo, nav {
+section.alert, section.topo, header nav {
   background-color: #202020;
   padding: 15px 0;
   border-bottom: 1px solid #333;
@@ -64,5 +64,59 @@ section.topo .search button[type=submit] {
   background-color: #ffcb3b;
   border: none;
   padding: 0 40px; }
+
+section.topo .conta a i, section.topo .carrinho a i {
+  font-size: 30px; }
+
+section.topo .conta > a, section.topo .carrinho > a {
+  font-size: 18px;
+  font-weight: lighter; }
+
+header nav {
+  padding: 0;
+  border-bottom: 0; }
+
+header nav ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+header nav ul li {
+  padding: 15px; }
+
+header nav ul li:first-child a {
+  color: #333; }
+
+header nav ul li:first-child {
+  max-width: 250px;
+  background-color: #ffcb3b;
+  padding: 15px 40px;
+  font-weight: bold; }
+
+header nav ul li a {
+  font-size: 17px; }
+
+section.body {
+  padding: 40px 0; }
+
+section.body > .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+aside {
+  border: 1px solid #ccc;
+  width: 235px; }
+
+aside nav ul li a {
+  color: #333; }
+
+aside nav ul li {
+  padding: 15px;
+  border-bottom: 1px solid #ccc; }
+
+main {
+  width: calc(100% - 235px);
+  padding: 0 20px; }
 
 /*# sourceMappingURL=style.css.map */
