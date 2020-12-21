@@ -4,7 +4,8 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   text-decoration: none;
-  list-style-type: none; }
+  list-style-type: none;
+  font-family: 'Roboto', sans-serif; }
 
 body {
   background-color: #FFF; }
@@ -13,6 +14,14 @@ body {
   max-width: 1280px;
   margin: 0 auto;
   padding: 0 2%; }
+
+.left, .right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+.search, .conta {
+  padding: 0 20px; }
 
 section.alert, section.topo, nav {
   background-color: #202020;
@@ -25,5 +34,35 @@ section.alert, section.topo a, nav ul li a {
 
 section.topo {
   padding: 25px 0; }
+
+section.topo > .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
+
+section.topo span {
+  font-size: 34px;
+  font-weight: bold; }
+
+section.topo span:last-child {
+  color: #ffcb3b; }
+
+section.topo .search form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+section.topo .search input[type=search] {
+  width: 400px;
+  padding: 10px 15px;
+  outline: none; }
+
+section.topo .search button[type=submit] {
+  background-color: #ffcb3b;
+  border: none;
+  padding: 0 40px; }
 
 /*# sourceMappingURL=style.css.map */
