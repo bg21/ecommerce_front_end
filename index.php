@@ -78,6 +78,10 @@
                         <li><a href="">Desktops</a></li>
                     </ul>
                 </nav>
+
+                <div class="anuncio_vertical">
+                    <!-- <img src="imgs/anuncio.png" alt=""> -->
+                </div>
             </aside>
             <main>
                 <section class="slide">
@@ -100,7 +104,18 @@
 
                         <div class="wraper_33">
                             <div class="w33">
-                                <img src="imgs/produto1.jpg" alt="">
+                                <img src="imgs/produto2.jpg" alt="">
+                                <h3>Lorem ipsum</h3>
+                                <span>R$ 154,00</span>
+                                <div>
+                                    <a href="" class="cart">Carrinho</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="wraper_33">
+                            <div class="w33">
+                                <img src="imgs/produto3.jpg" alt="">
                                 <h3>Lorem ipsum</h3>
                                 <span>R$ 154,00</span>
                                 <div>
@@ -122,7 +137,18 @@
 
                         <div class="wraper_33">
                             <div class="w33">
-                                <img src="imgs/produto1.jpg" alt="">
+                                <img src="imgs/produto2.jpg" alt="">
+                                <h3>Lorem ipsum</h3>
+                                <span>R$ 154,00</span>
+                                <div>
+                                    <a href="" class="cart">Carrinho</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="wraper_33">
+                            <div class="w33">
+                                <img src="imgs/produto3.jpg" alt="">
                                 <h3>Lorem ipsum</h3>
                                 <span>R$ 154,00</span>
                                 <div>
@@ -144,7 +170,7 @@
 
                         <div class="wraper_33">
                             <div class="w33">
-                                <img src="imgs/produto1.jpg" alt="">
+                                <img src="imgs/produto2.jpg" alt="">
                                 <h3>Lorem ipsum</h3>
                                 <span>R$ 154,00</span>
                                 <div>
@@ -153,13 +179,39 @@
                             </div>
                         </div>
 
-                        
+                        <div class="wraper_33">
+                            <div class="w33">
+                                <img src="imgs/produto3.jpg" alt="">
+                                <h3>Lorem ipsum</h3>
+                                <span>R$ 154,00</span>
+                                <div>
+                                    <a href="" class="cart">Carrinho</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="paginacao">
+                        <nav>
+                            <ul>
+                                <li><a href="">1</a></li>
+                                <li><a href="">2</a></li>
+                                <li><a href="">3</a></li>
+                                <li><a href="">4</a></li>
+                            </ul>
+                        </nav>
                     </div>
                 </section>
+                <div class="anuncio_horizontal">
+                    <!-- <img src="imgs/anuncio.png" alt=""> -->
+                </div>
             </main>
         </div>
     </section>
     
-    
+    <footer>
+        <div class="container">
+            afasdf
+        </div>
+    </footer>
 </body>
 </html>

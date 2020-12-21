@@ -13,7 +13,7 @@ h1, h2, h3, h4 {
 .w33 {
   margin: 10px;
   border: 1px solid #ccc;
-  padding: 20px; }
+  padding: 50px; }
 
 .wraper_33 {
   width: 33.3%; }
@@ -144,7 +144,8 @@ main .boxes {
   padding: 40px 0; }
 
 main .boxes h1 {
-  text-align: center; }
+  text-align: center;
+  font-size: 23px; }
 
 div.box {
   display: -webkit-box;
@@ -178,5 +179,40 @@ a.cart {
   display: inline-block;
   color: #fff;
   padding: 10px 30px; }
+
+div.anuncio_vertical {
+  margin: 20px 0;
+  height: 500px;
+  background-color: #ccc; }
+
+div.anuncio_vertical img {
+  width: 100%;
+  height: 100%; }
+
+div.anuncio_horizontal {
+  margin: 20px 0;
+  height: 200px;
+  background-color: #ccc; }
+
+div.paginacao nav ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
+
+div.paginacao nav ul li {
+  padding: 5px 10px;
+  background-color: #ccc;
+  margin-right: 10px; }
+
+div.paginacao nav ul li a {
+  color: #333; }
+
+footer {
+  background-color: #202020;
+  padding: 15px 0;
+  color: #fff; }
 
 /*# sourceMappingURL=style.css.map */
