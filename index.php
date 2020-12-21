@@ -80,76 +80,82 @@
                 </nav>
             </aside>
             <main>
-                <h1>Produtos Populares</h1>
-                <div class="box">
-                    <div class="wraper_33">
-                        <div class="w33">
-                            <img src="imgs/produto1.jpg" alt="">
-                            <h3>Lorem ipsum</h3>
-                            <span>R$ 154,00</span>
-                            <div>
-                                <a href="" class="cart">Carrinho</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="wraper_33">
-                        <div class="w33">
-                            <img src="imgs/produto1.jpg" alt="">
-                            <h3>Lorem ipsum</h3>
-                            <span>R$ 154,00</span>
-                            <div>
-                                <a href="" class="cart">Carrinho</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="wraper_33">
-                        <div class="w33">
-                            <img src="imgs/produto1.jpg" alt="">
-                            <h3>Lorem ipsum</h3>
-                            <span>R$ 154,00</span>
-                            <div>
-                                <a href="" class="cart">Carrinho</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="wraper_33">
-                        <div class="w33">
-                            <img src="imgs/produto1.jpg" alt="">
-                            <h3>Lorem ipsum</h3>
-                            <span>R$ 154,00</span>
-                            <div>
-                                <a href="" class="cart">Carrinho</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="wraper_33">
-                        <div class="w33">
-                            <img src="imgs/produto1.jpg" alt="">
-                            <h3>Lorem ipsum</h3>
-                            <span>R$ 154,00</span>
-                            <div>
-                                <a href="" class="cart">Carrinho</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="wraper_33">
-                        <div class="w33">
-                            <img src="imgs/produto1.jpg" alt="">
-                            <h3>Lorem ipsum</h3>
-                            <span>R$ 154,00</span>
-                            <div>
-                                <a href="" class="cart">Carrinho</a>
-                            </div>
-                        </div>
-                    </div>
-
+                <section class="slide">
                     
-                </div>
+                </section>
+
+                <section class="boxes">
+                    <h1>Produtos Populares</h1>
+                    <div class="box">
+                        <div class="wraper_33">
+                            <div class="w33">
+                                <img src="imgs/produto1.jpg" alt="">
+                                <h3>Lorem ipsum</h3>
+                                <span>R$ 154,00</span>
+                                <div>
+                                    <a href="" class="cart">Carrinho</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="wraper_33">
+                            <div class="w33">
+                                <img src="imgs/produto1.jpg" alt="">
+                                <h3>Lorem ipsum</h3>
+                                <span>R$ 154,00</span>
+                                <div>
+                                    <a href="" class="cart">Carrinho</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="wraper_33">
+                            <div class="w33">
+                                <img src="imgs/produto1.jpg" alt="">
+                                <h3>Lorem ipsum</h3>
+                                <span>R$ 154,00</span>
+                                <div>
+                                    <a href="" class="cart">Carrinho</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="wraper_33">
+                            <div class="w33">
+                                <img src="imgs/produto1.jpg" alt="">
+                                <h3>Lorem ipsum</h3>
+                                <span>R$ 154,00</span>
+                                <div>
+                                    <a href="" class="cart">Carrinho</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="wraper_33">
+                            <div class="w33">
+                                <img src="imgs/produto1.jpg" alt="">
+                                <h3>Lorem ipsum</h3>
+                                <span>R$ 154,00</span>
+                                <div>
+                                    <a href="" class="cart">Carrinho</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="wraper_33">
+                            <div class="w33">
+                                <img src="imgs/produto1.jpg" alt="">
+                                <h3>Lorem ipsum</h3>
+                                <span>R$ 154,00</span>
+                                <div>
+                                    <a href="" class="cart">Carrinho</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        
+                    </div>
+                </section>
             </main>
         </div>
     </section>

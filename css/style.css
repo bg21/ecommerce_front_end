@@ -136,7 +136,14 @@ main {
   width: calc(100% - 235px);
   padding: 0 20px; }
 
-main h1 {
+main section.slide {
+  background-color: #ccc;
+  height: 300px; }
+
+main .boxes {
+  padding: 40px 0; }
+
+main .boxes h1 {
   text-align: center; }
 
 div.box {
