@@ -25,7 +25,7 @@
                         <div class="search">
                             <form action="" method="get">
                                 <input type="search" name="" id="">
-                                <button type="submit"><i class="fas fa-user"></i></button>
+                                <button type="submit"><i class="fas fa-search"></i></button>
                             </form>
                         </div>
                     </div>
@@ -95,7 +95,9 @@
                                 <li class="splide__slide">
                                     <img src="imgs/banner2.jpg" alt="">
                                 </li>
-                                <li class="splide__slide">Slide 03</li>
+                                <li class="splide__slide">
+                                    <img src="imgs/banner3.png" alt="">
+                                </li>
                             </ul>
                         </div>
                     </div>
@@ -107,7 +109,7 @@
                         <div class="wraper_33">
                             <div class="w33">
                                 <img src="imgs/produto1.jpg" alt="">
-                                <h3>Lorem ipsum</h3>
+                                <h3><a href="">Lorem ipsum</a></h3>
                                 <span>R$ 154,00</span>
                                 <div>
                                     <a href="" class="cart">Carrinho</a>
@@ -118,7 +120,7 @@
                         <div class="wraper_33">
                             <div class="w33">
                                 <img src="imgs/produto2.jpg" alt="">
-                                <h3>Lorem ipsum</h3>
+                                <h3><a href="">Lorem ipsum</a></h3>
                                 <span>R$ 154,00</span>
                                 <div>
                                     <a href="" class="cart">Carrinho</a>
@@ -129,7 +131,7 @@
                         <div class="wraper_33">
                             <div class="w33">
                                 <img src="imgs/produto3.jpg" alt="">
-                                <h3>Lorem ipsum</h3>
+                                <h3><a href="">Lorem ipsum</a></h3>
                                 <span>R$ 154,00</span>
                                 <div>
                                     <a href="" class="cart">Carrinho</a>
@@ -140,7 +142,7 @@
                         <div class="wraper_33">
                             <div class="w33">
                                 <img src="imgs/produto1.jpg" alt="">
-                                <h3>Lorem ipsum</h3>
+                                <h3><a href="">Lorem ipsum</a></h3>
                                 <span>R$ 154,00</span>
                                 <div>
                                     <a href="" class="cart">Carrinho</a>
@@ -151,7 +153,7 @@
                         <div class="wraper_33">
                             <div class="w33">
                                 <img src="imgs/produto2.jpg" alt="">
-                                <h3>Lorem ipsum</h3>
+                                <h3><a href="">Lorem ipsum</a></h3>
                                 <span>R$ 154,00</span>
                                 <div>
                                     <a href="" class="cart">Carrinho</a>
@@ -162,7 +164,7 @@
                         <div class="wraper_33">
                             <div class="w33">
                                 <img src="imgs/produto3.jpg" alt="">
-                                <h3>Lorem ipsum</h3>
+                                <h3><a href="">Lorem ipsum</a></h3>
                                 <span>R$ 154,00</span>
                                 <div>
                                     <a href="" class="cart">Carrinho</a>
@@ -173,7 +175,7 @@
                         <div class="wraper_33">
                             <div class="w33">
                                 <img src="imgs/produto1.jpg" alt="">
-                                <h3>Lorem ipsum</h3>
+                                <h3><a href="">Lorem ipsum</a></h3>
                                 <span>R$ 154,00</span>
                                 <div>
                                     <a href="" class="cart">Carrinho</a>
@@ -184,7 +186,7 @@
                         <div class="wraper_33">
                             <div class="w33">
                                 <img src="imgs/produto2.jpg" alt="">
-                                <h3>Lorem ipsum</h3>
+                                <h3><a href="">Lorem ipsum</a></h3>
                                 <span>R$ 154,00</span>
                                 <div>
                                     <a href="" class="cart">Carrinho</a>
@@ -195,7 +197,7 @@
                         <div class="wraper_33">
                             <div class="w33">
                                 <img src="imgs/produto3.jpg" alt="">
-                                <h3>Lorem ipsum</h3>
+                                <h3><a href="">Lorem ipsum</a></h3>
                                 <span>R$ 154,00</span>
                                 <div>
                                     <a href="" class="cart">Carrinho</a>

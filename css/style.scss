@@ -14,6 +14,13 @@ h1, h2, h3, h4{
     margin: 10px;
     border: 1px solid #ccc;
     padding: 50px;
+    border-radius: 10px;
+}
+.w33 a{
+    color: #333;
+}
+.w33 a:hover{
+    text-decoration: underline;
 }
 .wraper_33{
     width: 33.3%;
@@ -41,6 +48,9 @@ section.alert, section.topo, header nav{
 section.alert, section.topo a, nav ul li a{
     color: #fff;
 }
+nav ul li:hover{
+    text-decoration: underline;
+}
 section.topo{
     padding: 25px 0;
 }
@@ -64,10 +74,18 @@ section.topo .search input[type=search]{
     padding: 10px 15px;
     outline: none;
 }
+section.topo .search button[type=submit] i{
+    font-size: 25px;
+}
 section.topo .search button[type=submit]{
     background-color:  #ffcb3b;
     border: none;
     padding: 0 40px;
+    cursor: pointer;
+    outline: none;
+}
+section.topo .search button[type=submit]:hover{
+    background-color:  #dbaa23;
 }
 section.topo .conta a i, section.topo .carrinho a i{
     font-size: 30px;
@@ -167,8 +185,11 @@ a.cart{
     display: inline-block;
     color: #fff;
     padding: 10px 30px;
+    border-radius: 5px;
 }
-
+a.cart:hover{
+    background-color: #ad1214;
+}
 div.anuncio_vertical{
     margin: 20px 0;
     height: 500px;
